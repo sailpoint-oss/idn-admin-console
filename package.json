@@ -56,7 +56,7 @@
 		"@skeletonlabs/skeleton": "^2.5.0",
 		"@skeletonlabs/tw-plugin": "^0.2.4",
 		"@sveltejs/adapter-static": "2.0.1",
-		"@sveltejs/kit": "1.14.0",
+		"@sveltejs/kit": "1.27.5",
 		"@types/jsonwebtoken": "^9.0.5",
 		"@types/node": "^20.9.0",
 		"@typescript-eslint/eslint-plugin": "^5.62.0",
